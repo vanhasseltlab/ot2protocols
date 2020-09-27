@@ -1,0 +1,12 @@
+name: MIC_Uploader_vx1
+title: MIC_Uploader_vx1
+username:
+account: sebastian-tommi-tandar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2891105
+bundleId: 3676474
+url: https://sebastian-tommi-tandar.shinyapps.io/MIC_Uploader_vx1/
+when: 1601231665.22396
+asMultiple: FALSE
+asStatic: FALSE
